@@ -1,1 +1,1 @@
-Razni programi za FPGA radjeni u Quartus-u
+Various programs for FPGA developed using Quartus software
